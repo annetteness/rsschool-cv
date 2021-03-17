@@ -1,6 +1,13 @@
 # Anna Severyna
 
 ## Contact info
+
+Phone: +48 53 005 74 75
+  
+E-mail: severyna.anna@gmail.com
+  
+Telegram: [annetteness](https://t.me/annetteness)
+
   
 
 ## Summary
@@ -14,6 +21,23 @@ In my free time I like playing the guitar and playing PS games.
 
 
 ## Skills
+
+### Programming languages:
+- Java
+- JavaScript
+
+### Learning right now:
+- HTML
+- CSS
+- Java
+- Javascript
+- Linux
+
+### Languages:
+- Russian (native)
+- English (C1)
+- Polish (C1)
+- German (A1)
 
 
 
